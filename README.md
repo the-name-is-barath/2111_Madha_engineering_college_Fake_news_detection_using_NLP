@@ -1,4 +1,4 @@
-Building a AI-powered Fake news detection using NLP involves several steps. Here is a high-level overview of the process :
+Fake news detection using NLP involves several steps. Here is a high-level overview of the process :
 
 
 1.Importing and installing libraries:
